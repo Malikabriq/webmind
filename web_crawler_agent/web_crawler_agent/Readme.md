@@ -84,8 +84,8 @@ Your crawled data, AI queries, and answers **never leave your system**.
 
 ## 🧑‍💻 Author
 
-**[Your Name]**
-💬 Built with ❤️ using Python, Streamlit, and Transformers.
+
+    Muhammad Abriq Built with ❤️ using Python, Streamlit,langchain, crawl4ai and Transformers.
 
 ---
 
