@@ -1,0 +1,8 @@
+streamlit
+nest_asyncio
+markdownify
+crawl4ai
+transformers
+torch
+langchain
+faiss-cpu
